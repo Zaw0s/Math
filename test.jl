@@ -1,1 +1,0 @@
-print((2/sqrt(2*pi)+exp(-1.5-log(sqrt(2*pi)))+exp(-0.5-log(sqrt(2*pi)))))
